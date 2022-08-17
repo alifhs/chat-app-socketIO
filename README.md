@@ -10,10 +10,7 @@ navigate to both server and client app project directory, run:
 
 ### `npm install`
 
-to install the projects dependency
-
-
-Run
+To install the projects dependency, Run
 
 ### `npm/yarn start`
 
